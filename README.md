@@ -21,5 +21,5 @@
 ##
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lewis-xyz&count_private=true&show_icons=true&theme=whitek&hide_border=true" width="%100" height="150px"
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lewis-js&count_private=true&show_icons=true&theme=whitek&hide_border=true" width="%100" height="150px"
 </p>
