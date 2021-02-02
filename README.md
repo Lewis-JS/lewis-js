@@ -21,6 +21,6 @@
 ##
 <span> 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lewis-js&show_icons=true&theme=radical" width="%100" height="150px"
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lewis-js&show_icons=true&theme=radical" width="%100" height="300px"
 </p>
 </span>
