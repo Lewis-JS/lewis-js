@@ -23,7 +23,4 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lewis-js&show_icons=true&theme=radical" width="%100" height="150px"
 </p>
- <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lewis-js&show_icons=true&theme=radical" width="%100" height="150px"
-</p>
 </span>
